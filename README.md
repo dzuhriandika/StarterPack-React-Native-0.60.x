@@ -2,7 +2,12 @@
 
 react-native && react-redux && react-navigation && native-base
 
-# Requirements
+## Requirements
 - npm
 - SDK
 - JDK
+
+## Use
+
+Clone this repository
+> git clone
