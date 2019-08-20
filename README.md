@@ -2,7 +2,7 @@
 
 react-native && react-redux && react-navigation && native-base
 
-![alt text](https://https://miro.medium.com/max/700/1*GkR93AAlILkmE_3QQf88Ug.png)
+!(https://https://miro.medium.com/max/700/1*GkR93AAlILkmE_3QQf88Ug.png)
 
 ## Requirements
 - node =>8.3
