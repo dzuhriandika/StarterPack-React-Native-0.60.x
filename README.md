@@ -2,4 +2,7 @@
 
 react-native && react-redux && react-navigation && native-base
 
-#Require
+# Requirements
+- npm
+- SDK
+- JDK
