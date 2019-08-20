@@ -10,7 +10,7 @@ react-native && react-redux && react-navigation && native-base
 ## Use
 
 - Clone this repository
-> git clone https://github.com/dzuhriandika/StarterPack-React-Native-0.60.x.git 
+'git clone https://github.com/dzuhriandika/StarterPack-React-Native-0.60.x.git' 
 - CD to StarterPack
 > cd ./StarterPack-React-Native-0.60x
 - Install module
