@@ -10,4 +10,12 @@ react-native && react-redux && react-navigation && native-base
 ## Use
 
 Clone this repository
-> git clone
+> git clone https://github.com/dzuhriandika/StarterPack-React-Native-0.60.x.git
+CD to StarterPack
+> cd ./StarterPack-React-Native-0.60x
+Install module
+> npm i --save
+Rename this project
+> react-native-rename <newname>
+Run this project
+> react-native run-android
