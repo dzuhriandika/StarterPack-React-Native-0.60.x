@@ -10,7 +10,7 @@ react-native && react-redux && react-navigation && native-base
 ## Tutorial
 - [React Native Docs](https://facebook.github.io/react-native/docs/getting-started)
 
-## Use
+## Getting Started
 
 - Clone this repository
 > git clone https://github.com/dzuhriandika/StarterPack-React-Native-0.60.x.git
