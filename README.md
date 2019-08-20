@@ -3,7 +3,7 @@
 react-native && react-redux && react-navigation && native-base
 
 ## Requirements
-- node =>8.3
+- node>=8.3
 - npm
 - React Native CLI
 - JDK
