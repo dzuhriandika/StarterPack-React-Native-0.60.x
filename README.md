@@ -3,9 +3,12 @@
 react-native && react-redux && react-navigation && native-base
 
 ## Requirements
+- node =>8.3
 - npm
-- SDK
+- react-native
+> npm install -g react-native-cli
 - JDK
+- SDK
 
 ## Tutorial
 - [React Native Docs](https://facebook.github.io/react-native/docs/getting-started)
