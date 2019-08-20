@@ -8,7 +8,7 @@ react-native && react-redux && react-navigation && native-base
 - JDK
 
 ## Tutorial
-- [React Native Docs](https://facebook.github.io/react-native/docs)
+- [React Native Docs](https://facebook.github.io/react-native/docs/)
 
 ## Use
 
