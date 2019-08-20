@@ -2,8 +2,6 @@
 
 react-native && react-redux && react-navigation && native-base
 
-!(https://https://miro.medium.com/max/700/1*GkR93AAlILkmE_3QQf88Ug.png)
-
 ## Requirements
 - node =>8.3
 - npm
